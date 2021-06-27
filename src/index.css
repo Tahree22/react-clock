@@ -12,6 +12,11 @@ code {
     monospace;
 }
 
+.font-link{
+  font-family: 'Dancing Script', cursive;
+  font-weight: 900;
+}
+
 /* ./src/index.css */
 @tailwind base;
 @tailwind components;
